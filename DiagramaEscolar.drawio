@@ -5,42 +5,42 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fi5kjaB15t_LKdDZMwA9-2" value="ALUNO" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="359" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fi5kjaB15t_LKdDZMwA9-3" value="NumMec" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="199" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fi5kjaB15t_LKdDZMwA9-4" value="Nome" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="309" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fi5kjaB15t_LKdDZMwA9-5" value="Sexo" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="419" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fi5kjaB15t_LKdDZMwA9-6" value="DataNasc" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="529" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fi5kjaB15t_LKdDZMwA9-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.15;exitY=1.025;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="fi5kjaB15t_LKdDZMwA9-2" target="fi5kjaB15t_LKdDZMwA9-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="370" as="sourcePoint" />
-            <mxPoint x="490" y="370" as="targetPoint" />
+            <mxPoint x="369" y="220" as="sourcePoint" />
+            <mxPoint x="529" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fi5kjaB15t_LKdDZMwA9-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fi5kjaB15t_LKdDZMwA9-2" target="fi5kjaB15t_LKdDZMwA9-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="220" as="sourcePoint" />
-            <mxPoint x="210" y="310" as="targetPoint" />
+            <mxPoint x="409" y="70" as="sourcePoint" />
+            <mxPoint x="249" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fi5kjaB15t_LKdDZMwA9-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.65;exitY=1.025;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="fi5kjaB15t_LKdDZMwA9-2" target="fi5kjaB15t_LKdDZMwA9-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="370" as="sourcePoint" />
-            <mxPoint x="350" y="450" as="targetPoint" />
+            <mxPoint x="559" y="220" as="sourcePoint" />
+            <mxPoint x="389" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fi5kjaB15t_LKdDZMwA9-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.85;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="fi5kjaB15t_LKdDZMwA9-2" target="fi5kjaB15t_LKdDZMwA9-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="250" as="sourcePoint" />
-            <mxPoint x="230" y="330" as="targetPoint" />
+            <mxPoint x="439" y="100" as="sourcePoint" />
+            <mxPoint x="269" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
