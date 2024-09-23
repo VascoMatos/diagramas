@@ -154,8 +154,8 @@
         <mxCell id="CYzNaaDyTAMv3jT5_hoj-43" value="Genero" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="750.5" y="300" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CYzNaaDyTAMv3jT5_hoj-44" value="DataNasc" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="860.5" y="340" width="80" height="40" as="geometry" />
+        <mxCell id="CYzNaaDyTAMv3jT5_hoj-44" value="DataNascimento" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="830" y="340" width="110.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CYzNaaDyTAMv3jT5_hoj-45" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYzNaaDyTAMv3jT5_hoj-40" target="CYzNaaDyTAMv3jT5_hoj-41">
           <mxGeometry relative="1" as="geometry">
