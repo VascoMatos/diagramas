@@ -589,6 +589,28 @@
         <mxCell id="h9_s0LnQ5q5esMZgo8oQ-154" value="POSSUEM" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="440" y="1730" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="h9_s0LnQ5q5esMZgo8oQ-155" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h9_s0LnQ5q5esMZgo8oQ-138" target="h9_s0LnQ5q5esMZgo8oQ-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1835" as="sourcePoint" />
+            <mxPoint x="560" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9_s0LnQ5q5esMZgo8oQ-156" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="h9_s0LnQ5q5esMZgo8oQ-155">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-200" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9_s0LnQ5q5esMZgo8oQ-157" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h9_s0LnQ5q5esMZgo8oQ-154" target="h9_s0LnQ5q5esMZgo8oQ-147">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1870" as="sourcePoint" />
+            <mxPoint x="650" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9_s0LnQ5q5esMZgo8oQ-158" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="h9_s0LnQ5q5esMZgo8oQ-157">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
