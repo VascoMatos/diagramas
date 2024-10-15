@@ -336,7 +336,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XqiXbIV1NQWLEeTD5v8z-88" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="XqiXbIV1NQWLEeTD5v8z-87">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
