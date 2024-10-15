@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XqiXbIV1NQWLEeTD5v8z-11" value="HOTEL" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-11" value="HOTEL" style="whiteSpace=wrap;html=1;align=center;fillColor=#66FFFF;" vertex="1" parent="1">
           <mxGeometry x="870" y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XqiXbIV1NQWLEeTD5v8z-12" value="LOCALIZACAO" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-12" value="LOCALIZACAO" style="whiteSpace=wrap;html=1;align=center;fillColor=#66FFFF;" vertex="1" parent="1">
           <mxGeometry x="1250" y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XqiXbIV1NQWLEeTD5v8z-13" value="QUARTOS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-13" value="QUARTOS" style="whiteSpace=wrap;html=1;align=center;fillColor=#66FFFF;" vertex="1" parent="1">
           <mxGeometry x="510" y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XqiXbIV1NQWLEeTD5v8z-14" value="CUSTO" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-14" value="CUSTO" style="whiteSpace=wrap;html=1;align=center;fillColor=#66FFFF;" vertex="1" parent="1">
           <mxGeometry x="510" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XqiXbIV1NQWLEeTD5v8z-15" value="POLITICA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-15" value="POLITICA" style="whiteSpace=wrap;html=1;align=center;fillColor=#66FFFF;" vertex="1" parent="1">
           <mxGeometry x="710" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XqiXbIV1NQWLEeTD5v8z-16" value="INSTALACOES" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-16" value="INSTALACOES" style="whiteSpace=wrap;html=1;align=center;fillColor=#66FFFF;" vertex="1" parent="1">
           <mxGeometry x="870" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XqiXbIV1NQWLEeTD5v8z-17" value="GERENTE" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-17" value="GERENTE" style="whiteSpace=wrap;html=1;align=center;fillColor=#66FFFF;" vertex="1" parent="1">
           <mxGeometry x="1080" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XqiXbIV1NQWLEeTD5v8z-18" value="IS_AT" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
