@@ -46,6 +46,33 @@
         <mxCell id="XqiXbIV1NQWLEeTD5v8z-23" value="RUN_BY" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1110" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-24" value="Tipo_de" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-25" value="Percentagem_de_disponibilidade" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-27" value="Nome_e_sobrenome" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="750" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-28" value="Classificacao" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="940" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-29" value="Rua" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-30" value="Cidade" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-31" value="Codigo_postal" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-33" value="Dist_da_cidade" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XqiXbIV1NQWLEeTD5v8z-34" value="Uma_vez_que" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="471.5" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
