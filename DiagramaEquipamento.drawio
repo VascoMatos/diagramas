@@ -47,7 +47,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JK030MNh_7zlfoLVC9jA-16" value="Department" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="170" y="821" width="160" height="146" as="geometry">
+          <mxGeometry x="320" y="877" width="160" height="146" as="geometry">
             <mxRectangle x="720" y="620" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
