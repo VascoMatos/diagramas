@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="cgUy74HiYtoIpU3tha52">
-    <mxGraphModel dx="1454" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2125" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-1" value="CallLog" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="960" width="160" height="236" as="geometry">
+          <mxGeometry x="1420" y="960" width="160" height="236" as="geometry">
             <mxRectangle x="1080" y="670" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -153,7 +153,7 @@
           <mxGeometry y="206" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-17" value="Specialization" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="1080" width="160" height="116" as="geometry">
+          <mxGeometry x="1850" y="1070" width="160" height="116" as="geometry">
             <mxRectangle x="1260" y="936" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -195,7 +195,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-29" value="ResolvedProblem" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1660" y="784" width="160" height="146" as="geometry">
+          <mxGeometry x="1790" y="770" width="160" height="146" as="geometry">
             <mxRectangle x="1260" y="776" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -229,7 +229,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-39" value="Problem" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="440" width="160" height="296" as="geometry">
+          <mxGeometry x="1210" y="550" width="160" height="296" as="geometry">
             <mxRectangle x="1080" y="360" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -459,7 +459,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XthvC1Dox0gNo0ZlnmB0-56" value="Belongs" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="420" width="160" height="86" as="geometry">
+          <mxGeometry x="1440" y="444" width="160" height="86" as="geometry">
             <mxRectangle x="720" y="490" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
