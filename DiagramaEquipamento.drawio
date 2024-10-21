@@ -33,7 +33,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JK030MNh_7zlfoLVC9jA-12" value="Administrator" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="240" width="160" height="116" as="geometry">
+          <mxGeometry x="990" y="250" width="160" height="116" as="geometry">
             <mxRectangle x="900" y="360" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -229,7 +229,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-39" value="Problem" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="550" width="160" height="296" as="geometry">
+          <mxGeometry x="1180" y="540" width="160" height="296" as="geometry">
             <mxRectangle x="1080" y="360" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -360,7 +360,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XthvC1Dox0gNo0ZlnmB0-35" value="Manages" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="200" width="160" height="86" as="geometry">
+          <mxGeometry x="1260" y="204" width="160" height="86" as="geometry">
             <mxRectangle x="720" y="490" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -459,7 +459,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XthvC1Dox0gNo0ZlnmB0-56" value="Belongs" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="444" width="160" height="86" as="geometry">
+          <mxGeometry x="1410" y="444" width="160" height="86" as="geometry">
             <mxRectangle x="720" y="490" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
