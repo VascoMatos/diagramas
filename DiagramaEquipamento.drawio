@@ -156,7 +156,7 @@
           <mxGeometry y="236" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-17" value="Specialization" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2260" y="806" width="160" height="116" as="geometry">
+          <mxGeometry x="2110" y="500" width="160" height="116" as="geometry">
             <mxRectangle x="1260" y="936" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -198,7 +198,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-29" value="ResolvedProblem" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="731" width="160" height="146" as="geometry">
+          <mxGeometry x="1520" y="720" width="160" height="146" as="geometry">
             <mxRectangle x="1260" y="776" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
