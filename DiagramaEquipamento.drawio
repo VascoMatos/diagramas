@@ -552,7 +552,7 @@
         </mxCell>
         <mxCell id="XthvC1Dox0gNo0ZlnmB0-78" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="XthvC1Dox0gNo0ZlnmB0-77">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-10" as="offset" />
+            <mxPoint x="-10" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
