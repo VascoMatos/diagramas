@@ -33,7 +33,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JK030MNh_7zlfoLVC9jA-12" value="Administrator" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="280" width="160" height="116" as="geometry">
+          <mxGeometry x="1040" y="320" width="160" height="116" as="geometry">
             <mxRectangle x="900" y="360" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -167,7 +167,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-21" value="ProblemCategory" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="280" width="160" height="116" as="geometry">
+          <mxGeometry x="1280" y="320" width="160" height="116" as="geometry">
             <mxRectangle x="1260" y="360" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -181,7 +181,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-25" value="ProblemType" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="280" width="160" height="146" as="geometry">
+          <mxGeometry x="1520" y="320" width="160" height="146" as="geometry">
             <mxRectangle x="1260" y="490" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
