@@ -167,7 +167,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-21" value="ProblemCategory" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="260" width="160" height="116" as="geometry">
+          <mxGeometry x="1550" y="275" width="160" height="116" as="geometry">
             <mxRectangle x="1260" y="360" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
