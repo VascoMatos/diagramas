@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JK030MNh_7zlfoLVC9jA-1" value="EquipmentType" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="280" y="275" width="160" height="116" as="geometry">
+          <mxGeometry x="560" y="400" width="160" height="116" as="geometry">
             <mxRectangle x="720" y="360" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -19,7 +19,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JK030MNh_7zlfoLVC9jA-6" value="Manufacturer" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="300" y="515" width="160" height="116" as="geometry">
+          <mxGeometry x="520" y="600" width="160" height="116" as="geometry">
             <mxRectangle x="720" y="490" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
