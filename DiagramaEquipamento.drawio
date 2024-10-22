@@ -245,7 +245,7 @@
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-39" value="Problem" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1040" y="520" width="160" height="296" as="geometry">
-            <mxRectangle x="1080" y="360" width="90" height="30" as="alternateBounds" />
+            <mxRectangle x="1040" y="520" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bwqaiT9aRmezGoFUWZD2-40" value="&lt;u&gt;ProblemID&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="bwqaiT9aRmezGoFUWZD2-39" vertex="1">
