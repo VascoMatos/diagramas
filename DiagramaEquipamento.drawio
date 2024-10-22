@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="JK030MNh_7zlfoLVC9jA-21" value="Caller" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="560" y="877" width="160" height="206" as="geometry">
-            <mxRectangle x="720" y="780" width="80" height="30" as="alternateBounds" />
+            <mxRectangle x="560" y="877" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JK030MNh_7zlfoLVC9jA-22" value="&lt;u&gt;CallerID&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="JK030MNh_7zlfoLVC9jA-21" vertex="1">
