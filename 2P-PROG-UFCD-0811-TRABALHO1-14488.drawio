@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CPEMlGY6SJmJDC0pdXCr-1" value="Administrador_14488" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="180" y="150" width="170" height="146" as="geometry" />
+          <mxGeometry x="40" y="90" width="170" height="146" as="geometry" />
         </mxCell>
         <mxCell id="CPEMlGY6SJmJDC0pdXCr-2" value="&lt;u&gt;Id&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-1">
           <mxGeometry y="26" width="170" height="30" as="geometry" />
@@ -18,6 +18,18 @@
         </mxCell>
         <mxCell id="CPEMlGY6SJmJDC0pdXCr-5" value="Pass" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-1">
           <mxGeometry y="116" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEMlGY6SJmJDC0pdXCr-6" value="Administrador_Log_14488" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="200" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEMlGY6SJmJDC0pdXCr-7" value="IdAdministrador" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-6">
+          <mxGeometry y="26" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEMlGY6SJmJDC0pdXCr-8" value="DataLog" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-6">
+          <mxGeometry y="56" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CPEMlGY6SJmJDC0pdXCr-9" value="Log" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-6">
+          <mxGeometry y="86" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
