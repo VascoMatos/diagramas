@@ -109,6 +109,12 @@
         <mxCell id="CPEMlGY6SJmJDC0pdXCr-43" value="Foto" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-36">
           <mxGeometry y="206" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CPEMlGY6SJmJDC0pdXCr-44" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;" edge="1" parent="1" source="CPEMlGY6SJmJDC0pdXCr-2" target="CPEMlGY6SJmJDC0pdXCr-7">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="820" y="450" as="sourcePoint" />
+            <mxPoint x="920" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
