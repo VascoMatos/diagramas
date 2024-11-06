@@ -100,7 +100,7 @@
         <mxCell id="CPEMlGY6SJmJDC0pdXCr-45" value="IdTipoImovel" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-36">
           <mxGeometry y="56" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CPEMlGY6SJmJDC0pdXCr-46" value="IdTipoAtributo" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-36">
+        <mxCell id="CPEMlGY6SJmJDC0pdXCr-46" value="IdLocalidade" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-36">
           <mxGeometry y="86" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CPEMlGY6SJmJDC0pdXCr-38" value="Titulo" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="CPEMlGY6SJmJDC0pdXCr-36">
@@ -140,6 +140,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CPEMlGY6SJmJDC0pdXCr-51" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;" edge="1" parent="1" source="CPEMlGY6SJmJDC0pdXCr-12" target="CPEMlGY6SJmJDC0pdXCr-45">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="640" y="450" as="sourcePoint" />
+            <mxPoint x="740" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CPEMlGY6SJmJDC0pdXCr-52" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;" edge="1" parent="1" source="CPEMlGY6SJmJDC0pdXCr-27" target="CPEMlGY6SJmJDC0pdXCr-46">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="640" y="450" as="sourcePoint" />
             <mxPoint x="740" y="350" as="targetPoint" />
